@@ -1,16 +1,27 @@
-
-.text-box{
-	padding-top: 2rem;
+.text-box {
+  padding-top: 2rem;
 }
 .result {
-	margin-bottom: 0;
-	margin-top: 3rem;
+  margin-bottom: 0;
+  margin-top: 3rem;
 }
 .fonts {
-	font-size: 2rem;
-	text-align: center;
-	padding: 2rem;
+  font-size: 2rem;
+  text-align: center;
+  padding: 2rem;
 }
 small {
-	font-size: 1.3rem;
+  font-size: 1.3rem;
+}
+.resault-open {
+  font-family: "Open Sans", sans-serif;
+}
+.resault-bebas {
+  font-family: "Bebas Neue", cursive;
+}
+.resault-lato {
+  font-family: "Lato", sans-serif;
+}
+.resault-lobster {
+  font-family: "Lobster", cursive;
 }
